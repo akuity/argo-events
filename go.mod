@@ -38,7 +38,7 @@ require (
 	github.com/go-swagger/go-swagger v0.30.4
 	github.com/gobwas/glob v0.2.4-0.20181002190808-e7a84e9525fe
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/v31 v31.0.0
 	github.com/google/uuid v1.3.0
