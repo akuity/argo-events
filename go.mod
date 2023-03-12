@@ -71,7 +71,7 @@ require (
 	github.com/yuin/gopher-lua v1.1.0
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.6.0
+	golang.org/x/crypto v0.7.0
 	google.golang.org/api v0.111.0
 	google.golang.org/grpc v1.53.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
