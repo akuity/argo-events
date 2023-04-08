@@ -18,7 +18,7 @@ require (
 	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/antonmedv/expr v1.12.5
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
-	github.com/apache/pulsar-client-go v0.9.0
+	github.com/apache/pulsar-client-go v0.10.0
 	github.com/argoproj/pkg v0.13.6
 	github.com/aws/aws-sdk-go v1.44.234
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
@@ -96,6 +96,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.1.2 // indirect
 	github.com/DataDog/zstd v1.5.0 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
+	github.com/bits-and-blooms/bitset v1.4.0 // indirect
 	github.com/cloudflare/circl v1.1.0 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
 	github.com/danieljoos/wincred v1.1.2 // indirect
