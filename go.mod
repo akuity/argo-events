@@ -72,7 +72,7 @@ require (
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.10.0
-	google.golang.org/api v0.126.0
+	google.golang.org/api v0.128.0
 	google.golang.org/grpc v1.56.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	k8s.io/api v0.27.1
@@ -110,7 +110,7 @@ require (
 	github.com/google/gnostic v0.5.7-v3refs // indirect
 	github.com/google/go-github/v52 v52.0.0 // indirect
 	github.com/google/s2a-go v0.1.4 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.2.4 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
