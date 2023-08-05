@@ -47,7 +47,7 @@ require (
 	github.com/imdario/mergo v0.3.16
 	github.com/itchyny/gojq v0.12.13
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
-	github.com/ktrysmt/go-bitbucket v0.9.63
+	github.com/ktrysmt/go-bitbucket v0.9.64
 	github.com/minio/minio-go/v7 v7.0.61
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
@@ -276,7 +276,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/net v0.13.0 // indirect
 	golang.org/x/oauth2 v0.10.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
