@@ -70,7 +70,7 @@ require (
 	github.com/xanzy/go-gitlab v0.88.0
 	github.com/yuin/gopher-lua v1.1.0
 	go.uber.org/ratelimit v0.3.0
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.25.0
 	golang.org/x/crypto v0.11.0
 	google.golang.org/api v0.134.0
 	google.golang.org/grpc v1.57.0
@@ -274,7 +274,7 @@ require (
 	go.mongodb.org/mongo-driver v1.11.3 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.8.0 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/oauth2 v0.10.0 // indirect
