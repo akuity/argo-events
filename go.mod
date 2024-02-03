@@ -18,7 +18,7 @@ require (
 	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/antonmedv/expr v1.15.5
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
-	github.com/apache/pulsar-client-go v0.11.1
+	github.com/apache/pulsar-client-go v0.12.0
 	github.com/argoproj/pkg v0.13.6
 	github.com/aws/aws-sdk-go v1.50.10
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
@@ -103,7 +103,7 @@ require (
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/danieljoos/wincred v1.1.2 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
-	github.com/dvsekhvalnov/jose2go v1.5.0 // indirect
+	github.com/dvsekhvalnov/jose2go v1.6.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
