@@ -73,7 +73,7 @@ require (
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.19.0
 	google.golang.org/api v0.167.0
-	google.golang.org/grpc v1.61.1
+	google.golang.org/grpc v1.62.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	k8s.io/api v0.29.0
 	k8s.io/apimachinery v0.29.0
@@ -200,7 +200,7 @@ require (
 	github.com/go-openapi/validate v0.22.1 // indirect
 	github.com/gobuffalo/flect v1.0.2 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
-	github.com/golang/glog v1.1.2 // indirect
+	github.com/golang/glog v1.2.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
