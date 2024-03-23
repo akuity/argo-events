@@ -72,7 +72,7 @@ require (
 	go.uber.org/ratelimit v0.3.1
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.21.0
-	google.golang.org/api v0.170.0
+	google.golang.org/api v0.171.0
 	google.golang.org/grpc v1.62.1
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	k8s.io/api v0.29.0
@@ -143,8 +143,8 @@ require (
 	go.opentelemetry.io/otel/metric v1.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240304161311-37d4d3c04a78 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240311132316-a219d84964c2 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240311132316-a219d84964c2 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240314234333-6e1732d8331c // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 )
@@ -204,7 +204,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
-	github.com/googleapis/gax-go/v2 v2.12.2 // indirect
+	github.com/googleapis/gax-go/v2 v2.12.3 // indirect
 	github.com/gopherjs/gopherjs v1.17.2 // indirect
 	github.com/gorilla/handlers v1.5.1 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
