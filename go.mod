@@ -18,7 +18,7 @@ require (
 	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/antonmedv/expr v1.15.5
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
-	github.com/apache/pulsar-client-go v0.13.0
+	github.com/apache/pulsar-client-go v0.13.1
 	github.com/argoproj/pkg v0.13.6
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
@@ -168,7 +168,7 @@ require (
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
-	github.com/Microsoft/go-winio v0.6.1 // indirect
+	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/ProtonMail/go-crypto v1.0.0 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/ardielle/ardielle-go v1.5.2 // indirect
