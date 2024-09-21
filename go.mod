@@ -26,7 +26,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/colinmarc/hdfs v1.1.4-0.20180802165501-48eb8d6c34a9
 	github.com/eclipse/paho.mqtt.golang v1.5.0
-	github.com/emitter-io/go/v2 v2.0.9
+	github.com/emitter-io/go/v2 v2.1.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gavv/httpexpect/v2 v2.16.0
 	github.com/gfleury/go-bitbucket-v1 v0.0.0-20210707202713-7d616f7c18ac
