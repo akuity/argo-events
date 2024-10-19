@@ -38,8 +38,8 @@ github.com/Azure/azure-sdk-for-go/sdk/azcore v1.13.0/go.mod h1:l38EPgmsp71HHLq9j
 github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0 h1:tfLQ34V6F7tVSwoTf/4lH5sE0o6eCJuNDTmH09nDpbc=
 github.com/Azure/azure-sdk-for-go/sdk/internal v1.10.0 h1:ywEEhmNahHBihViHepv3xPBn1663uRv2t2q/ESv9seY=
 github.com/Azure/azure-sdk-for-go/sdk/internal v1.10.0/go.mod h1:iZDifYGJTIgIIkYRNWPENUnqx6bJ2xnSDFI2tjwZNuY=
-github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.7.2 h1:jU3HjVlASpkQ8rNczJgbpi0ZHUq30gUtxz9/t4I2Ykk=
-github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.7.2/go.mod h1:0//khemTpeLHXCTNR/FDZ7LvJFIbW9HgFspljDTmz20=
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.7.3 h1:LdVbGn5dRAr7ypENaGiigQg/uCjnbY2TYdZNK6cyyoI=
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.7.3/go.mod h1:0//khemTpeLHXCTNR/FDZ7LvJFIbW9HgFspljDTmz20=
 github.com/Azure/go-amqp v1.1.0 h1:XUhx5f4lZFVf6LQc5kBUFECW0iJW9VLxKCYrBeGwl0U=
 github.com/Azure/go-amqp v1.1.0/go.mod h1:vZAogwdrkbyK3Mla8m/CxSc/aKdnTZ4IbPxl51Y5WZE=
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 h1:UQHMgLO+TxOElx5B5HZ4hJQsoJ/PvUvKRhJHDQXO8P8=
