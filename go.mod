@@ -48,7 +48,7 @@ require (
 	github.com/itchyny/gojq v0.12.17
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
 	github.com/ktrysmt/go-bitbucket v0.9.81
-	github.com/minio/minio-go/v7 v7.0.86
+	github.com/minio/minio-go/v7 v7.0.87
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/nats-io/graft v0.0.0-20220215174245-93d18541496f
@@ -123,7 +123,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
-	github.com/minio/crc64nvme v1.0.0 // indirect
+	github.com/minio/crc64nvme v1.0.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
