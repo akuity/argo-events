@@ -1,6 +1,7 @@
 module github.com/argoproj/argo-events
 
-go 1.19
+go 1.23.0
+
 toolchain go1.24.1
 
 retract v1.15.1 // Contains retractions only.
@@ -63,7 +64,7 @@ require (
 	github.com/slack-go/slack v0.16.0
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/cobra v1.9.1
-	github.com/spf13/viper v1.20.0
+	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.10.0
 	github.com/stripe/stripe-go v70.15.0+incompatible
 	github.com/tidwall/gjson v1.18.0
