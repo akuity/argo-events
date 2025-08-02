@@ -74,7 +74,7 @@ require (
 	go.uber.org/ratelimit v0.3.1
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.40.0
-	google.golang.org/api v0.243.0
+	google.golang.org/api v0.244.0
 	google.golang.org/grpc v1.74.2
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	k8s.io/api v0.33.0
@@ -157,7 +157,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.36.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250603155806-513f23925822 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250715232539-7130f93afb79 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250728155136-f173205681a0 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7 // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
